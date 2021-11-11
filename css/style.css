@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.carousel-item {
+    height: 75vh;
+    object-fit: cover;
+}
+
+.row {
+    margin: 0;
+}
+
+.services {
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 3rem;
+    margin-bottom: 7rem;
+    margin-top: 2rem;
+}
+
+.reviews {
+    text-align: center;
+}
+
+.reviews h2 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
